@@ -1,11 +1,20 @@
-{ "Bug report " :[ {"ID":2345678}, {"Project Name":"New project"},{"Defect Reported Date":"02.07.2021"},
-                  {"Summary_Title": "При изменении e-mail представителя и вводе e-mail с доменом в виде русских букв изменения сохраняются"},
-                  {"Steps to reproduce":{"step_1":"перейти в мой профиль", "step_2":"Найти Данные представителя и нажать кнопку Изменить","step_3":"Ввести E-mail с доменом в виде русских букв и нажать Сохранить"}},
-                  {"Expected result":"появляется нотификация Некорректный e-mail"},
-                  {"Actual result":"изменения сохраняются"},
-                  {"Priority":"medium"},
-                  {"Severity":"medium"},
-                  {"Environment":"Edge"},
-                  {"Status":"open"},
-                  {"Additional info":"пункт 3.2 требований"}
-                 ]}
+{ "Bug_report":"structure",
+	"ID":"",
+        "Defect Reported Date":"",
+	"Project":"",
+        "Summary_Title":"",	
+	"Steps":{"step1":"",
+		"step2":"",
+		"step3":""
+		},
+        "Expected result":"",
+        "Actual result":"",
+	"priority":"",
+        "severity":"",
+	"Environment":"",
+        "Status":"",
+        "Additional info":""
+}
+
+
+
